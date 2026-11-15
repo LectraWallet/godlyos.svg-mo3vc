@@ -1,0 +1,11 @@
+# MULTIPLIED LINKS (10 total across 1 sites via standard):
+https://cdn.jsdelivr.net/gh/LectraWallet/godlyos.svg-mo3vc@main/v0001/godlyos.svg.txt
+https://raw.githubusercontent.com/LectraWallet/godlyos.svg-mo3vc/main/v0002/godlyos.svg.txt
+https://cdn.jsdelivr.net/gh/LectraWallet/godlyos.svg-mo3vc@main/v0003/godlyos.svg.txt
+https://raw.githubusercontent.com/LectraWallet/godlyos.svg-mo3vc/main/v0004/godlyos.svg.txt
+https://cdn.jsdelivr.net/gh/LectraWallet/godlyos.svg-mo3vc@main/v0005/godlyos.svg.txt
+https://raw.githubusercontent.com/LectraWallet/godlyos.svg-mo3vc/main/v0006/godlyos.svg.txt
+https://cdn.jsdelivr.net/gh/LectraWallet/godlyos.svg-mo3vc@main/v0007/godlyos.svg.txt
+https://raw.githubusercontent.com/LectraWallet/godlyos.svg-mo3vc/main/v0008/godlyos.svg.txt
+https://cdn.jsdelivr.net/gh/LectraWallet/godlyos.svg-mo3vc@main/v0009/godlyos.svg.txt
+https://raw.githubusercontent.com/LectraWallet/godlyos.svg-mo3vc/main/v0010/godlyos.svg.txt
